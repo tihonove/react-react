@@ -1,5 +1,7 @@
 # react-react
 
+[![npm](https://img.shields.io/npm/v/react-react.svg?style=flat-square)](https://www.npmjs.com/package/react-react)
+
 Impressive state management toolkit for react
 
 ### Cons
