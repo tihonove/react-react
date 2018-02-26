@@ -7,6 +7,11 @@
   "author": "Eugene Tihonove <tihonov.ea@gmail.com>",
   "license": "MIT",
   "private": false,
+  "bugs": {
+    "url" : "https://github.com/tihonove/react-react/issues"
+  },
+  "homepage": "https://github.com/tihonove/react-react",
+  "repository": "github:tihonove/react-react",
   "keywords": [
     "react",
     "state management"
