@@ -55,5 +55,5 @@ render() {
 To use library just add following import to the beginning of you file:
 
 ```javascript
-import none from "react-react";
+import "react-react";
 ```
