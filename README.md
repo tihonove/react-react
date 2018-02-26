@@ -26,6 +26,16 @@ npm install react-react
 
 ### How to use
 
+First you should create component:
+
+```javascript
+import * as React from "react-react";
+
+class MyComponent extends React.Component {
+    
+}
+```
+
 To set state use `setState` function. For example
 
 ```javascript
