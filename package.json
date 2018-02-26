@@ -1,6 +1,6 @@
 {
   "name": "react-react",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The best state management toolkit for react",
   "main": "src/index.js",
   "typings": "src/index.d.ts",
@@ -8,7 +8,7 @@
   "license": "MIT",
   "private": false,
   "bugs": {
-    "url" : "https://github.com/tihonove/react-react/issues"
+    "url": "https://github.com/tihonove/react-react/issues"
   },
   "homepage": "https://github.com/tihonove/react-react",
   "repository": "github:tihonove/react-react",
