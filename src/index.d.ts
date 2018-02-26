@@ -1,2 +1,3 @@
 import * as React from 'react';
-declare export default React;
+
+declare export default {};

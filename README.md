@@ -29,9 +29,9 @@ npm install react-react
 First you should create component:
 
 ```javascript
-import * as React from "react-react";
+import * as React from "react";
 
-class MyComponent extends React.Component {
+class MyComponent extends Component {
     
 }
 ```
@@ -50,4 +50,10 @@ Access to state via `state` field:
 render() {
     return <div>{this.state.bar}</div>
 }
+```
+
+To use library just add following import to the beginning of you file:
+
+```javascript
+import none from "react-react";
 ```
