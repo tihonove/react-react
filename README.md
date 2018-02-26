@@ -3,7 +3,7 @@
 
 Impressive state management toolkit for react
 
-### Cons
+### Pros
 * Easy to use
 * Easy to read and maintain
 * Low barrier to entry
