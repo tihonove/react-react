@@ -12,6 +12,7 @@ Impressive state management toolkit for react
 * Full react compatible
 * Small size
 * Flow and Typescript support
+* 100% test coverage
 
 ### Installation
 
