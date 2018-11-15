@@ -6,6 +6,7 @@ Impressive state management toolkit for react
 ### Pros
 * Easy to use
 * Easy to read and maintain
+* Full hooks support
 * Low barrier to entry
 * Full react compatible
 * Small size
