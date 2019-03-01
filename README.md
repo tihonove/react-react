@@ -57,3 +57,32 @@ To use library just add following import to the beginning of you file:
 ```javascript
 import "react-react";
 ```
+
+### Usage with hooks
+
+Create a functional component
+
+```jsx
+import React from 'react'
+
+function MyComponent() {
+
+}
+```
+
+Add `useState` hook
+
+```jsx
+function MyComponent() {
+    const [value, setValueState] = useState("value")
+    return <div>{value}</div>
+}
+```
+
+To update `value` use `setValueState`
+
+```jsx
+function foo(value) {
+  setValueState(value)
+}
+```
