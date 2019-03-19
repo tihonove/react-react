@@ -31,7 +31,7 @@ First you should create component:
 ```javascript
 import * as React from "react";
 
-class MyComponent extends Component {
+class MyComponent extends React.Component {
     
 }
 ```
@@ -46,7 +46,7 @@ foo() {
 
 Access to state via `state` field:
 
-```javascript
+```jsx
 render() {
     return <div>{this.state.bar}</div>
 }
