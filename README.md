@@ -7,6 +7,7 @@ Impressive state management toolkit for react
 * Easy to use
 * Easy to read and maintain
 * Full hooks support
+* React Server Components support
 * Low barrier to entry
 * Full react compatible
 * Small size
