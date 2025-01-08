@@ -85,6 +85,6 @@ To update `value` use `setValueState`
 
 ```jsx
 function foo(value) {
-  setValueState(value)
+    setValueState(value)
 }
 ```
