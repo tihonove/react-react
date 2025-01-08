@@ -18,4 +18,4 @@ jobs:
                   node-version: 16.x
             - run: npm install
             - run: npm test
-            - run: npm test-coverage
+            - run: npm run test-coverage
