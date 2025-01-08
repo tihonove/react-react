@@ -1,6 +1,6 @@
 {
   "name": "react-react",
-  "version": "1.19.3",
+  "version": "1.19.4",
   "description": "The best state management toolkit for react",
   "main": "src/index.js",
   "typings": "src/index.d.ts",
