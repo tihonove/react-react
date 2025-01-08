@@ -9,7 +9,7 @@
   "private": false,
   "scripts": {
     "test": "mocha",
-    "test-coverage": "istanbul cover ./node_modules/mocha/bin/_mocha --report lcovonly -- -R spec && cat ./coverage/lcov.info | ./node_modules/coveralls/bin/coveralls.js && rm -rf ./coverage"
+    "test-coverage": "istanbul cover ./node_modules/mocha/bin/_mocha --report lcovonly -- -R spec"
   },
   "bugs": {
     "url": "https://github.com/tihonove/react-react/issues"

@@ -17,7 +17,7 @@ jobs:
               with:
                   node-version: 16.x
             - run: npm install
-            - run: npm test
+            - run: npm run test-coverage
 
             - name: Upload coverage to Coveralls
               uses: coverallsapp/github-action@v1
