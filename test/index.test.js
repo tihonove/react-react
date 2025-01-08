@@ -1,8 +1,12 @@
-const { expect } = require("chai");
 const reactReact = require("../src/index");
 
 describe("default export", () => {
     it("should be not null", () => {
-        expect(reactReact).to.eql({});
+        if (reactReact == null)
+            throw new Error("");
+        if (typeof reactReact != "object")
+            throw new Error("");
+        if (Object.keys(reactReact) != 0)
+            throw new Error("");
     });
 });
