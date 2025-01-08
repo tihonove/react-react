@@ -1,6 +1,0 @@
-language: node_js
-node_js:
-- '8'
-dist: precise
-install: npm install
-script: npm run test-coverage
