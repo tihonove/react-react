@@ -2,8 +2,9 @@ name: Publish package to npm
 
 on:
     push:
-        branches: ["*"]
-    
+        tags:
+            - "v*.*.*"
+
 jobs:
     publish:
         runs-on: ubuntu-latest
